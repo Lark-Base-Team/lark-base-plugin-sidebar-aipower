@@ -1,0 +1,9 @@
+{
+  "errors": {
+    "tableNotFound": "Unable to get current table",
+    "initFailed": "Initialization failed, please retry"
+  },
+  "common": {
+    "retry": "Retry"
+  }
+}

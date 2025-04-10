@@ -1,0 +1,9 @@
+{
+  "errors": {
+    "tableNotFound": "現在のテーブルを取得できません",
+    "initFailed": "初期化に失敗しました。再試行してください"
+  },
+  "common": {
+    "retry": "再試行"
+  }
+}
